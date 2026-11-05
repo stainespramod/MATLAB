@@ -1,2 +1,2 @@
 # MATLAB
-A collection of MATLAB Projects
+A collection of my MATLAB Projects

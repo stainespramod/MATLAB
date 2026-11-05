@@ -1,0 +1,64 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+*.autosave
+*.mlx~
+
+# MATLAB Editor / Live Script temp files
+*.mlxtemp
+
+# Compiled MEX binaries
+*.mex*
+*.mexa64
+*.mexw64
+*.mexmaci64
+*.mexmaca64
+
+# MATLAB Coder / code generation output
+codegen/
+*.prj.bak
+
+# Simulink cache and generated files
+slprj/
+*.slxc
+*.slx.autosave
+*.slx.original
+*.sldd.bak
+*_grt_rtw/
+*_ert_rtw/
+*_sfun.*
+*.r20*
+
+# Simulink / MATLAB project (Projects) metadata
+resources/project/
+resources/*.xml.bak
+
+# Generated figures and large outputs (remove a line if you want to keep these)
+*.fig.bak
+output/
+results/
+
+# Data files (uncomment if the data is large or not yours to share)
+# *.mat
+# data/
+
+# Packaged toolboxes and apps built locally
+*.mltbx
+*.mlappinstall
+
+# Octave
+octave-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
